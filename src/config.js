@@ -5,7 +5,7 @@ import { Platform } from 'react-native';
 
 // Development API URLs - try multiple options
 const API_URLS = [
-  'https://964453d1c74c.ngrok-free.app',  // ngrok tunnel (works for mobile)
+  'https://6b09dd50e7a0.ngrok-free.app',  // ngrok tunnel (works for mobile)
   'http://172.17.227.114:3001',           // Your current IP
   'http://10.0.2.2:3001',                 // Android emulator
   'http://localhost:3001',                // Web/local development
